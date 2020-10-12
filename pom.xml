@@ -138,7 +138,7 @@
                     <argLine>-Dfile.encoding=UTF-8</argLine>
                     <encoding>UTF-8</encoding>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${project.basedir}/target/classes/testNg/api/${xmlFileName}</suiteXmlFile>
+                        <suiteXmlFile>${project.basedir}/target/classes/testNg/${xmlFileName}</suiteXmlFile>
                         <!--<suiteXmlFile>${project.basedir}/target/classes/testNg/api/push/RegisterToken-TestSuite.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
                 </configuration>
